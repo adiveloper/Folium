@@ -4,3 +4,5 @@ The code is customizable
 It uses the folium API 
 The documentation can be found :- http://python-visualization.github.io/folium/
 Use Chrome if you run the HTML and Jupyter files.
+If you want to create new co_ordinates(lat and Long) : https://github.com/adiveloper/Leaflet
+
