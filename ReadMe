@@ -1,0 +1,6 @@
+Create a latitude and longitude csv file
+And use the code.
+The code is customizable
+It uses the folium API 
+The documentation can be found :- http://python-visualization.github.io/folium/
+Use Chrome if you run the HTML and Jupyter files.
